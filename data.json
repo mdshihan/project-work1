@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/Rp2z3XB9/e3ab89c0f6354fc289615a516725c853.jpg",
+    "name": "মোঃ মোশাররফ হোসেন",
+    "designation": "",
+    "department": "",
+    "email": "tangpoly1991@gmail.com",
+    "mobile": "+৮৮০ ১৩০৯-১৩২৬৮২"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/QFFJVH8m/250acb0d604a422ab05a300400fca227.jpg",
+    "name": "খ. ম. রওশন হাবিব",
+    "designation": "",
+    "department": "",
+    "email": "kmrhabib@gmail.com",
+    "mobile": "০১৭১২১১৫০৩৪"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/9kDc72mJ/c0509dfa54334b6390c933e829761a2e.jpg",
+    "name": "নাছির আহমেদ",
+    "designation": "চীফ ইন্সট্রাক্টর(টেক) কম্পিউটার",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "",
+    "mobile": "০১৭১২৬৭৪১৭৪"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/LDZTmqJ1/be62095c00fe40f097f846883201bad7.jpg",
+    "name": "রেজাউল করিম",
+    "designation": "ইন্সট্রাক্টর",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "karimmpi1985@gmail.com",
+    "mobile": "০১৭০৫৪৩২২৯৭"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/35X64Vv0/4b2310bbfc094a76a9325e154997bfc3.jpg",
+    "name": "প্রকৌশলী জান্নাতুল ফেরদৌসী",
+    "designation": "ইন্সট্রাক্টর",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "shilpiduet@gmail.com",
+    "mobile": "০১৭১৬৮৩৬৯৩৯"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/JFdgRQSv/ecefe6053de144e484974967cd7e9637.jpg",
+    "name": "শাহাদৎ হোসাইন",
+    "designation": "জুনিয়র ইনস্ট্রাক্টর (টেক/কম্পিউটার) / ১ম শিফট",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "shahadathossainshake1@gmail.com",
+    "mobile": "০১৫৩১১৯৪৩৬৭"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/xtQzd4Xz/e28774694c3340538ef100fb8f4dab8a.jpg",
+    "name": "আবুল কালাম মিয়া",
+    "designation": "জুনিয়র ইনস্ট্রাক্টর (টেক/কম্পিউটার) / ১ম শিফট",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "kalammiah068@gmail.com",
+    "mobile": "০১৭৯৬৩৪৬৪৮৫"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/k6hvm4JW/9c5b4bae5c304dc799de6898236d6a79.jpg",
+    "name": "মোঃ তারিফুল ইসলাম",
+    "designation": "জুনিয়র ইনস্ট্রাক্টর (টেক/কম্পিউটার) / ১ম শিফট",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "tariful38diu@gmail.com",
+    "mobile": "০১৭১৪২০০৫৫৫"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/5Xw6dPP3/ac2db3ca06574b7abe6f854672ac9a28.jpg",
+    "name": "সন্তোষ কুমার কর্মকার",
+    "designation": "চিফ ইন্সট্রাক্টর (টেক) কম্পিউটার",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "santoshkarmaker33@gmail.com",
+    "mobile": "০১৭১৪৫১৮১৮৮"
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/Vphxgb3N/cff8ab2bb90141d78bbc1443e8f5353f.jpg",
+    "name": "রুমা রাণী সরকার",
+    "designation": "ইনস্ট্রাক্টর",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "",
+    "mobile": "০১৭৭৭২২৮৮৯৯"
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/PvLHxG2h/ac1f00c5843e4c5ba66958be62703af4.jpg",
+    "name": "মোঃ রিপন মিয়া",
+    "designation": "ইন্সট্রাক্টর(টেক) কম্পিউটার",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "smripan20202@gmail.com",
+    "mobile": "০১৮৫২৫৯৯৭৩৪"
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/Gvh4SrJb/6038d923a60c4a66b054cf1be6ffaa8f.jpg",
+    "name": "এস এম আব্দুল্লাহ আল শোয়ায়েব (নিক্সন)",
+    "designation": "ইনস্ট্রাক্টর",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "nixon.cse28@gmail.com",
+    "mobile": "০১৭১৬০৯০১১৯"
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co.com/21KWFdtK/55eb6eec01b54dc392e71c32b664a70e.jpg",
+    "name": "হাফেজ মোঃ আব্দুল কাদের",
+    "designation": "ইনস্ট্রাক্টর(টেক) কম্পিউটার",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "kader1284@gmail.com",
+    "mobile": "০১৭১৯৯২৮০২৬"
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co.com/XZZBHSfS/824936f366724e9585125348a9ee5d65.jpg",
+    "name": "সুজন মিয়া",
+    "designation": "জুনিয়র ইনস্ট্রাক্টর (টেক/কম্পিউটার) / ২য় শিফট",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "sujanduetfury@gmail.com",
+    "mobile": "০১৫৮৬৩৩৬৬১৫"
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co.com/FkfW0Xm0/d72c950f523c4fd2915b00b69771867e.jpg",
+    "name": "আঃ হামিদ মিয়া",
+    "designation": "জুনিয়র ইনস্ট্রাক্টর (টেক/কম্পিউটার) / ২য় শিফট",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "abdulhamidmiah938@gmail.com",
+    "mobile": "০১৭৬৪৪৬৪৯৩৮"
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co.com/VWwGCpPH/5d2f03c633034abb8cd576aeea6ad2e1.jpg",
+    "name": "টুম্পা মনি",
+    "designation": "জুনিয়র ইনস্ট্রাক্টর (টেক/কম্পিউটার) / ২য় শিফট",
+    "department": "কম্পিউটার সাইন্স এন্ড টেকনোলজি",
+    "email": "tumpamony21@gmail.com",
+    "mobile": "০১৬২৬৮৪৪৯৫৬"
+  }
+]

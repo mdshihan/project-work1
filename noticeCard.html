@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notice Board UI</title>
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body class="bg-[#f4f4f4] p-10 font-sans">
+
+<div class="flex flex-col md:flex-row gap-5 max-w-[1100px] mx-auto">
+
+    <!-- Notice Board -->
+    <div class="flex-[2] bg-white border border-[#ddd] rounded-lg p-[25px]">
+
+        <!-- Header -->
+        <div class="flex items-center gap-2.5 text-[#2e7d32] mb-5 border-b border-[#eee] pb-[15px]">
+            <i class="fas fa-file-alt"></i>
+            <h2 class="text-[22px]">নোটিশ বোর্ড</h2>
+        </div>
+
+        <!-- Notice List -->
+        <div>
+
+            <!-- Item 1 -->
+            <div class="flex justify-between items-center py-[15px] border-b border-[#eee]">
+                <div>
+                    <p class="text-[16px] font-medium text-[#333] mb-2 flex items-start gap-2">
+                        <span class="w-2 h-2 bg-[#28a745] rounded-full mt-2"></span>
+                        গণভোট ও ত্রয়োদশ জাতীয় সংসদ নির্বাচন ২০২৬, তথ্য কণিকা -৯
+                    </p>
+
+                    <div class="pl-5 text-[14px] text-[#666] flex items-center gap-[15px]">
+                        <span><i class="far fa-calendar-alt"></i> ১২-০১-২০২৬</span>
+                        <span class="bg-[#ffebcc] px-3 py-[2px] rounded-full text-[13px] text-[#333]">সাধারণ</span>
+                    </div>
+                </div>
+
+                <i class="fas fa-chevron-right text-[#666] text-[14px]"></i>
+            </div>
+
+            <!-- Item 2 -->
+            <div class="flex justify-between items-center py-[15px] border-b border-[#eee]">
+                <div>
+                    <p class="text-[16px] font-medium text-[#333] mb-2 flex items-start gap-2">
+                        <span class="w-2 h-2 bg-[#28a745] rounded-full mt-2"></span>
+                        গণভোট ২০২৬
+                    </p>
+
+                    <div class="pl-5 text-[14px] text-[#666] flex items-center gap-[15px]">
+                        <span><i class="far fa-calendar-alt"></i> ১২-০১-২০২৬</span>
+                        <span class="bg-[#ffebcc] px-3 py-[2px] rounded-full text-[13px] text-[#333]">সাধারণ</span>
+                    </div>
+                </div>
+
+                <i class="fas fa-chevron-right text-[#666] text-[14px]"></i>
+            </div>
+
+            <!-- Item 3 -->
+            <div class="flex justify-between items-center py-[15px] border-b border-[#333]">
+                <div>
+                    <p class="text-[16px] font-medium text-[#333] mb-2 flex items-start gap-2">
+                        <span class="w-2 h-2 bg-[#28a745] rounded-full mt-2"></span>
+                        ই-টেন্ডার নোটিশ (আরএফকিউ) ২০২৫-২৬
+                    </p>
+
+                    <div class="pl-5 text-[14px] text-[#666] flex items-center gap-[15px]">
+                        <span><i class="far fa-calendar-alt"></i> ২২-১২-২০২৫</span>
+                        <span class="bg-[#ffebcc] px-3 py-[2px] rounded-full text-[13px] text-[#333]">সাধারণ</span>
+                    </div>
+                </div>
+
+                <i class="fas fa-chevron-right text-[#666] text-[14px]"></i>
+            </div>
+
+        </div>
+
+        <!-- Button -->
+        <div class="text-center mt-5">
+            <a href="#" class="bg-[#008a3d] text-white no-underline px-[25px] py-[10px] rounded text-[16px] inline-block">
+                সকল নোটিশ দেখুন <i class="fas fa-arrow-right"></i>
+            </a>
+        </div>
+
+    </div>
+
+    <!-- Profile Card -->
+    <div class="flex-1 bg-white border border-[#ddd] rounded-lg overflow-hidden h-fit">
+
+        <div class="bg-[#007e33] text-white p-[10px] text-center font-bold text-[16px]">
+            মাননীয় শিক্ষা মন্ত্রী
+        </div>
+
+        <div class="p-[15px] text-center">
+            <img src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-tangail-polytech/2026/1/d396b768-8493-4f3a-9d66-eebd724bbaa8.jpg"
+                 class="w-full max-w-[200px] border border-[#333] rounded mx-auto">
+
+            <p class="mt-[15px] font-bold text-[15px] text-black">
+                হেলিকপ্টার মিলন  🚁
+            </p>
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
